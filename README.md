@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, My Name is Laban Rotich</h1>
 <h3 align="center">I am an Enthusiastic passionate Software Engineer From Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laban254&label=Profile%20views&color=0e75b6&style=flat" alt="laban254" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laban254" alt="laban254" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/labank_" target="blank"><img src="https://img.shields.io/twitter/follow/labank_?logo=twitter&style=for-the-badge" alt="labank_" /></a> </p>
@@ -26,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laban254&show_icons=true&locale=en&layout=compact" alt="laban254" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laban254&show_icons=true&locale=en" alt="laban254" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laban254&" alt="laban254" /></p>
