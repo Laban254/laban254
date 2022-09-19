@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **labanrotich6544@gmail.com**
 
-- ⚡ Fun fact **You can’t tickle yourself.**
+- ⚡ Fun fact **Domain name registration used to be free.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
