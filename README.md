@@ -4,8 +4,10 @@
 - 📫 How to reach me **labanrotich6544@gmail.com**
 
 - ⚡ Fun fact **Domain name registration used to be free.**
-. ⚡ I enjoy solving proplems through Automation.**
-. ⚡ I am currently learning c.**
+- 
+. ⚡ I enjoy solving proplems through Automation.
+
+. ⚡ I am currently learning c.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
