@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, My Name is Laban Rotich</h1>
 <h3 align="center">I am an Enthusiastic passionate Software Engineer From Kenya</h3>
 
-- 📫 How to reach me **labanrotich6544@gmail.com**
 
-- ⚡ Fun fact **Domain name registration used to be free.**
+  🔭 I’m currently working on Python/Django projects.
+
+  👯 Looking forward to collaborate on Backend related projects.
+
+  ⚡ Fun fact **Domain name registration used to be free.**
  
-- ⚡ I enjoy solving proplems through Automation.
+  ⚡ I enjoy solving proplems through Automation.
 
-- ⚡ I am currently learning c.
+  ⚡ I am currently learning c.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
