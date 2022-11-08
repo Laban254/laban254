@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My Name is Laban Rotich</h1>
-<h3 align="center">I am an Enthusiastic passionate Software Engineer From Kenya</h3>
+<h3 align="center">I am an Enthusiastic passionate Software Engineer </h3>
 
 
   🔭 I’m currently working on Python/Django projects.
