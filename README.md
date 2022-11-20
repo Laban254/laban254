@@ -10,7 +10,7 @@
  
   ⚡ I enjoy solving proplems through Automation.
 
-  ⚡ I am currently learning c.
+  ⚡ I am currently learning Python.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
