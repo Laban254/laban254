@@ -12,13 +12,33 @@
 
   ⚡ I am currently learning Python.
 
+
+---
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/labank_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="labank_" height="30" width="40" /></a>
-<a href="https://twitter.com/labank_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="labank_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/laban-kibet-rotich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/laban-kibet-rotich" height="30" width="40" /></a>
-</p>
+
+<a href="https://twitter.com/labank_" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/labank_" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/laban-kibet-rotich" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laban254&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/laban254/github-readme-stats)
 
 
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laban254&show_icons=true&locale=en&layout=compact" alt="laban254" /></p>
+
+<a href="https://github.com/laban254/github-readme-activity-graph"><img alt="Activity graph" width = "900" height = "300" src="https://activity-graph.herokuapp.com/graph?username=laban254&bg_color=1F222E&theme=material-palenight&line=D9E650&point=FFFFFF&hide_border=true" align = "left" />
+</a>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=laban254&&style=flat-square" align="center" />
+</div> 
+
