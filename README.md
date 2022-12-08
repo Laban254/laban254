@@ -39,10 +39,5 @@
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laban254&layout=compact&theme=merko&hide=["contribs","issues"])](https://github.com/laban254)
 
-<a href="https://github.com/laban254/github-readme-activity-graph"><img alt="Activity graph" width = "900" height = "300" src="https://activity-graph.herokuapp.com/graph?username=laban254&bg_color=1F222E&theme=material-palenight&line=D9E650&point=FFFFFF&hide_border=true" align = "left" />
-</a>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=laban254&&style=flat-square" align="center" />
-</div> 
 
