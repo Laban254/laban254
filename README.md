@@ -30,7 +30,7 @@
 
 ## My Stack(used or still using)
 
-Bellow  currently or Previously used Stack
+Currently or Previously used Stack
 
 ### Languages 💻 🌐
 
